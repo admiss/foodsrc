@@ -2,7 +2,7 @@
 	phpinfo();
 ?>
 
-change in test
+change in test2
 
 <?php
 	phpinfo();
